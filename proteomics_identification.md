@@ -5,9 +5,9 @@ In order to assess the presence of proteins in a sample, the mass spectrometry d
 
 ## Data and Tools
 
-This tutorial was written using PeptideShaker version 1.16.31 [(1)](#references).
+This tutorial was written using PeptideShaker version 3.0.11 [(1)](#references).
 
-:pencil2: Download PeptideShaker [here](http://compomics.github.io/projects/peptide-shaker.html).
+:pencil2: Download PeptideShaker [here](https://github.com/compomics/peptide-shaker?tab=readme-ov-file).
 
 
 ## Navigating identification results
