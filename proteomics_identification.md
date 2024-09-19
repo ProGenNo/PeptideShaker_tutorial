@@ -100,8 +100,6 @@ You should see the following screen.
 
 In this panel, you can tune the validation threshold and visualize the balance between threshold stringency and high coverage.
 
-[:thought_balloon:4](../Answers.md#thought_balloon4) _How can we set the coverage to 99%?_
-
 :speech_balloon: _Is it better to have a low FDR, or a high number of proteins?_
 
 
